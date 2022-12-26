@@ -73,7 +73,7 @@ methods,crack_mode,geo,tf = [],[],[],[]
 
 def main():
     print(AUH)
-    mr_AHSAM_(minx)
+    mr_AHSAM(minx)
     mr_AHSAM(' [1] clone from file')
     mr_AHSAM(' [2] clone random gmail+number')
     mr_AHSAM(' [3] file creating and cute etc Menu')
